@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 50,
+    "category": "Comedy",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Music Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 5,
+    "category": "Song",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Food Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 100,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 10,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149380226.jpg?t=st=1726814483~exp=1726818083~hmac=e4777a326c6d1257724d7c6643802dd9a17d1fe67bb35857a5cdfa8d401dd9f9&w=740"
+  }
+]
